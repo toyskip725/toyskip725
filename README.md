@@ -1,8 +1,10 @@
-## Hi there 👋
 
-[![toyskip725's GitHub stats](https://github-readme-stats.vercel.app/api?username=toyskip725)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyskip725&layout=compact)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=toyskip725" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=toyskip725&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **toyskip725/toyskip725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
